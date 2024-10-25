@@ -7,3 +7,5 @@ libharu-*
 tests
 *.lib
 build/
+bin/
+lib/

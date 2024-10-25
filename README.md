@@ -37,6 +37,10 @@ vcpkg integrate install
 ```
 vcpkg install libharu
 ```
+# 编译方式
+
+使用vscode cmake插件进行编译。
+
 # 使用方式
 ```shell
 emf2pdf /path/to/emf
